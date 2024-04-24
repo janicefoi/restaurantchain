@@ -29,12 +29,6 @@ The Drink Sales Management System is a web application designed to automate the 
 - **Authentication**: JSON Web Tokens (JWT)
 - **Other Tools**: Git, GitHub, Postman
 
-## Installation
-To run this application locally, follow these steps:
-1. Clone this repository.
-2. Navigate to the `frontend` and `backend` directories separately and run `npm install` to install dependencies.
-3. Set up MongoDB and configure the connection in the backend.
-4. Run `npm start` in both the `frontend` and `backend` directories to start the development servers.
 
 ## Contributors
 - [Janice Wambui](https://github.com/janicefoi) - Developer
