@@ -1,0 +1,84 @@
+/* CustomerPage.css */
+.customer-page {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: orange; /* Changed background color to orange */
+    color: #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-menu {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-item {
+    margin-right: 1rem;
+  }
+  
+/* CustomerPage.css */
+.nav-link {
+    text-decoration: none;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none; /* Remove border */
+    background-color: transparent; /* Set background color to transparent */
+    border-radius: 4px;
+    transition: background-color 0.3s;
+  }
+  
+  .nav-link:hover {
+    background-color: darkorange;
+  }  
+  
+  .signup-form-container{
+    width: 300px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .signup-form-container h2 {
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .signup-form-container input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .signup-form-container button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: orange;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .signup-form-container button:hover {
+    background-color: darkorange; /* Change color on hover */
+  }
+  
+  .signup-form-container .error-message {
+    color: red;
+    margin-top: 0.5rem;
+  }
+  

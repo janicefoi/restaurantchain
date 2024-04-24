@@ -1,0 +1,55 @@
+/*HomePage.css*/
+.home-page {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column; /* Adjusted to stack content vertically */
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('drinks.jpeg');
+    background-size: cover;
+    filter: brightness(0.5); /* adjust brightness as needed */
+  }
+  
+  .content {
+    position: relative; /* Ensure content is displayed on top of background image */
+    z-index: 1; /* Ensure content is displayed on top of background image */
+    text-align: center;
+    color: white; /* Adjust text color for better visibility */
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: row; /* Adjusted to display buttons horizontally */
+    align-items: center;
+    justify-content: center;
+    position: relative; /* Added to position the buttons */
+    z-index: 1; /* Ensure buttons are displayed on top of background image */
+  }
+  
+  
+  .home-button {
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .home-button:hover {
+    background-color: darkorange;
+  }
+  
