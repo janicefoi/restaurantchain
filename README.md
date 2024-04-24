@@ -10,6 +10,19 @@ The Drink Sales Management System is a web application designed to automate the 
 - **Branch Selection**: Customers can view available branches and select the nearest one.
 - **Menu Browsing**: Customers can browse the menu of each branch and add drinks to their cart.
 - **Order Placement**: Customers can place orders and view their order history.
+### Screenshots
+
+![Screenshot 1](screenshots/Screenshot%201.png)
+![Screenshot 2](screenshots/Screenshot%202.png)
+![Screenshot 3](screenshots/Screenshot%203.png)
+![Screenshot 4](screenshots/Screenshot%204.png)
+![Screenshot 5](screenshots/Screenshot%205.png)
+![Screenshot 6](screenshots/Screenshot%206.png)
+![Screenshot 7](screenshots/Screenshot%207.png)
+![Screenshot 8](screenshots/Screenshot%208.png)
+![Screenshot 9](screenshots/Screenshot%209.png)
+![Screenshot 10](screenshots/Screenshot%2010.png)
+
 
 ### Branch Dashboard
 - **Branch Authentication**: Branches can log in using their credentials.
