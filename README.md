@@ -1,7 +1,8 @@
 # Drink Sales Management System
 
 ## Overview
-The Drink Sales Management System is a web application designed to automate the operations of a business enterprise that sells drinks of a particular brand. The system allows customers to place orders, which are processed locally at the branch and reflected globally at the headquarters. It provides reports on total sales and profits at both the branch and headquarters levels, and includes a re-order signal to indicate the need for restocking.
+## Overview
+The Drink Sales Management System is a web application designed to automate the operations of a business enterprise that sells drinks of a particular brand. Built on the MERN (MongoDB, Express.js, React.js, Node.js) stack, with React.js as the frontend framework, the system allows customers to place orders, which are processed locally at the branch and reflected globally at the headquarters. It provides reports on total sales and profits at both the branch and headquarters levels, and includes a re-order signal to indicate the need for restocking.
 
 ## Features
 
