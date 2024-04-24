@@ -12,7 +12,7 @@ The Drink Sales Management System is a web application designed to automate the 
 - **Order Placement**: Customers can place orders and view their order history.
 ### Screenshots
 
-![Screenshot 1](screenshots/Screenshot%201.png)
+![Screenshot 1](Screenshot%202024-04-24%20at%2016.08.03.png)
 ![Screenshot 2](screenshots/Screenshot%202.png)
 ![Screenshot 3](screenshots/Screenshot%203.png)
 ![Screenshot 4](screenshots/Screenshot%204.png)
