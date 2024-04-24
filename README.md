@@ -37,6 +37,13 @@ The Drink Sales Management System is a web application designed to automate the 
 - **Order Tracking**: Headquarters can view orders from all branches.
 - **Total Sales and Profits**: Headquarters can view total sales and profits across all branches.
 
+![Screenshot 1](Screenshot%202024-04-24%20at%2015.12.13.png)
+![Screenshot 2](Screenshot%202024-04-24%20at%2015.12.17.png)
+![Screenshot 3](Screenshot%202024-04-24%20at%2015.12.23.png)
+![Screenshot 4](Screenshot%202024-04-24%20at%2015.12.32.png)
+![Screenshot 5](Screenshot%202024-04-24%20at%2015.12.45.png)
+
+
 ## Technologies Used
 - **Frontend**: React.js, React Router, Axios, Bootstrap
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose
