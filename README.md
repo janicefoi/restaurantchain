@@ -31,6 +31,16 @@ The Drink Sales Management System is a web application designed to automate the 
 - **Order Management**: Branches can view and manage orders, including changing order statuses.
 - **Sales and Profits**: Branches can view their sales and profits reports.
 
+![Screenshot 1](Screenshot%202024-04-24%20at%2015.11.05.png)
+![Screenshot 2](Screenshot%202024-04-24%20at%2015.11.08.png)
+![Screenshot 3](Screenshot%202024-04-24%20at%2015.11.12.png)
+![Screenshot 4](Screenshot%202024-04-24%20at%2015.11.22.png)
+![Screenshot 5](Screenshot%202024-04-24%20at%2015.11.39.png)
+![Screenshot 6](Screenshot%202024-04-24%20at%2015.11.50.png)
+![Screenshot 7](Screenshot%202024-04-24%20at%2015.11.58.png)
+![Screenshot 8](Screenshot%202024-04-24%20at%2015.12.05.png)
+
+
 ### Headquarters Dashboard
 - **Headquarters Authentication**: Headquarters can log in using their credentials.
 - **Branch Management**: Headquarters can create new branches and view details of existing branches.
